@@ -1,0 +1,41 @@
+﻿<Window x:Class="Kursach2.Cart"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kursach2"
+        mc:Ignorable="d"
+        Title="Cart" Height="450" Width="800" ResizeMode="NoResize">
+    <Window.Background>
+        <ImageBrush ImageSource="/background.jpg"/>
+    </Window.Background>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="19*"/>
+            <RowDefinition Height="416*"/>
+        </Grid.RowDefinitions>
+        <StackPanel Grid.RowSpan="2"/>
+        <ScrollViewer x:Name="ProductScrollViewer" Margin="50,81,50,0" Grid.Row="1" Height="236" VerticalAlignment="Top" Background="#CCFFFFFF">
+            <StackPanel x:Name="ProductStackPanel">
+            </StackPanel>
+        </ScrollViewer>
+
+        <Border CornerRadius="7" BorderBrush="#FF707070" BorderThickness="1" Margin="10,10,0,0" Background="White" Height="19" VerticalAlignment="Top" HorizontalAlignment="Left" Width="78" Grid.RowSpan="2">
+            <Button Height="18" VerticalAlignment="Center" Grid.RowSpan="2" Click="BackButton" Background="#00DDDDDD" BorderBrush="#00707070" Foreground="Black" HorizontalAlignment="Right" Width="76">
+                Назад</Button>
+        </Border>
+
+        <Border CornerRadius="7" BorderBrush="#FF707070" BorderThickness="1" Margin="329,338,329,40" Background="White" Grid.Row="1">
+            <Button Height="35" VerticalAlignment="Center" Click="BuyButton" Grid.Row="1" Background="#00DDDDDD" BorderBrush="#00707070">
+                Купить</Button>
+        </Border>
+
+        <TextBlock Text="Корзина" FontSize="24" Margin="266,10,266,334" Grid.Row="1" TextAlignment="Center" Foreground="#FFD64B4B"/>
+        <TextBlock Text="Общая цена:" FontSize="18" Margin="50,322,620,52" Grid.Row="1" TextAlignment="Center" Foreground="Black" RenderTransformOrigin="0.5,0.5"/>
+        <TextBlock Text="0" FontSize="18" Margin="185,322,0,31" Grid.Row="1" Foreground="Black" RenderTransformOrigin="0.5,0.5" HorizontalAlignment="Left" Width="139" x:Name="TotalPrice"/>
+
+    </Grid>
+
+
+
+</Window>

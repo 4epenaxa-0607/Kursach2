@@ -1,0 +1,127 @@
+D:\Kursach2\bin\Debug\Kursach2.exe.config
+D:\Kursach2\bin\Debug\Kursach2.exe
+D:\Kursach2\bin\Debug\Kursach2.pdb
+D:\Kursach2\obj\Debug\Kursach2.csproj.AssemblyReference.cache
+D:\Kursach2\obj\Debug\Kursach2.csproj.SuggestedBindingRedirects.cache
+D:\Kursach2\obj\Debug\MainWindow.g.cs
+D:\Kursach2\obj\Debug\App.g.cs
+D:\Kursach2\obj\Debug\Kursach2_MarkupCompile.cache
+D:\Kursach2\obj\Debug\Kursach2_MarkupCompile.lref
+D:\Kursach2\obj\Debug\MainWindow.baml
+D:\Kursach2\obj\Debug\Kursach2.g.resources
+D:\Kursach2\obj\Debug\Kursach2.Properties.Resources.resources
+D:\Kursach2\obj\Debug\Kursach2.csproj.GenerateResource.cache
+D:\Kursach2\obj\Debug\Kursach2.csproj.CoreCompileInputs.cache
+D:\Kursach2\obj\Debug\Kursach2.exe
+D:\Kursach2\obj\Debug\Kursach2.pdb
+D:\Kursach2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Kursach2\bin\Debug\Microsoft.Bcl.HashCode.dll
+D:\Kursach2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Kursach2\bin\Debug\Npgsql.dll
+D:\Kursach2\bin\Debug\System.Buffers.dll
+D:\Kursach2\bin\Debug\System.Collections.Immutable.dll
+D:\Kursach2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Kursach2\bin\Debug\System.Memory.dll
+D:\Kursach2\bin\Debug\System.Numerics.Vectors.dll
+D:\Kursach2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Kursach2\bin\Debug\System.Text.Encodings.Web.dll
+D:\Kursach2\bin\Debug\System.Text.Json.dll
+D:\Kursach2\bin\Debug\System.Threading.Channels.dll
+D:\Kursach2\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Kursach2\bin\Debug\System.ValueTuple.dll
+D:\Kursach2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Kursach2\bin\Debug\Microsoft.Bcl.HashCode.xml
+D:\Kursach2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Kursach2\bin\Debug\Npgsql.xml
+D:\Kursach2\bin\Debug\System.Buffers.xml
+D:\Kursach2\bin\Debug\System.Collections.Immutable.xml
+D:\Kursach2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Kursach2\bin\Debug\System.Memory.xml
+D:\Kursach2\bin\Debug\System.Numerics.Vectors.xml
+D:\Kursach2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Kursach2\bin\Debug\System.Text.Encodings.Web.xml
+D:\Kursach2\bin\Debug\System.Text.Json.xml
+D:\Kursach2\bin\Debug\System.Threading.Channels.xml
+D:\Kursach2\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Kursach2\bin\Debug\System.ValueTuple.xml
+D:\Kursach2\obj\Debug\Kursach2.csproj.CopyComplete
+D:\Kursach2\obj\Debug\Authorization.g.cs
+D:\Kursach2\obj\Debug\Authorization.baml
+D:\Kursach2\obj\Debug\Registration.g.cs
+D:\Kursach2\obj\Debug\Registration.baml
+D:\Kursach2\obj\Debug\Cart.g.cs
+D:\Kursach2\obj\Debug\Profile.g.cs
+D:\Kursach2\obj\Debug\Cart.baml
+D:\Kursach2\obj\Debug\Profile.baml
+D:\Kursach2\obj\Debug\AddCard.g.cs
+D:\Kursach2\obj\Debug\AddCard.baml
+D:\Kursach2\obj\Debug\AddAddress.g.cs
+D:\Kursach2\obj\Debug\AddAddress.baml
+D:\Kursach2\obj\Debug\AddressInfo.g.cs
+D:\Kursach2\obj\Debug\CardInfo.g.cs
+D:\Kursach2\obj\Debug\AddressInfo.baml
+D:\Kursach2\obj\Debug\CardInfo.baml
+C:\Мои файлы\Kursach2\obj\Debug\Kursach2.csproj.AssemblyReference.cache
+C:\Мои файлы\Kursach2\obj\Debug\AddAddress.g.cs
+C:\Мои файлы\Kursach2\obj\Debug\AddCard.g.cs
+C:\Мои файлы\Kursach2\obj\Debug\AddressInfo.g.cs
+C:\Мои файлы\Kursach2\obj\Debug\Authorization.g.cs
+C:\Мои файлы\Kursach2\obj\Debug\CardInfo.g.cs
+C:\Мои файлы\Kursach2\obj\Debug\Cart.g.cs
+C:\Мои файлы\Kursach2\obj\Debug\MainWindow.g.cs
+C:\Мои файлы\Kursach2\obj\Debug\Profile.g.cs
+C:\Мои файлы\Kursach2\obj\Debug\Registration.g.cs
+C:\Мои файлы\Kursach2\obj\Debug\App.g.cs
+C:\Мои файлы\Kursach2\obj\Debug\Kursach2_MarkupCompile.cache
+C:\Мои файлы\Kursach2\obj\Debug\Kursach2_MarkupCompile.lref
+C:\Мои файлы\Kursach2\obj\Debug\Kursach2.exe
+C:\Мои файлы\Kursach2\obj\Debug\Kursach2.pdb
+C:\Мои файлы\Kursach2\bin\Debug\Kursach2.exe.config
+C:\Мои файлы\Kursach2\bin\Debug\Kursach2.exe
+C:\Мои файлы\Kursach2\bin\Debug\Kursach2.pdb
+C:\Мои файлы\Kursach2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Мои файлы\Kursach2\bin\Debug\Microsoft.Bcl.HashCode.dll
+C:\Мои файлы\Kursach2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Мои файлы\Kursach2\bin\Debug\Npgsql.dll
+C:\Мои файлы\Kursach2\bin\Debug\System.Buffers.dll
+C:\Мои файлы\Kursach2\bin\Debug\System.Collections.Immutable.dll
+C:\Мои файлы\Kursach2\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Мои файлы\Kursach2\bin\Debug\System.Memory.dll
+C:\Мои файлы\Kursach2\bin\Debug\System.Numerics.Vectors.dll
+C:\Мои файлы\Kursach2\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Мои файлы\Kursach2\bin\Debug\System.Text.Encodings.Web.dll
+C:\Мои файлы\Kursach2\bin\Debug\System.Text.Json.dll
+C:\Мои файлы\Kursach2\bin\Debug\System.Threading.Channels.dll
+C:\Мои файлы\Kursach2\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Мои файлы\Kursach2\bin\Debug\System.ValueTuple.dll
+C:\Мои файлы\Kursach2\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Мои файлы\Kursach2\bin\Debug\Microsoft.Bcl.HashCode.xml
+C:\Мои файлы\Kursach2\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Мои файлы\Kursach2\bin\Debug\Npgsql.xml
+C:\Мои файлы\Kursach2\bin\Debug\System.Buffers.xml
+C:\Мои файлы\Kursach2\bin\Debug\System.Collections.Immutable.xml
+C:\Мои файлы\Kursach2\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Мои файлы\Kursach2\bin\Debug\System.Memory.xml
+C:\Мои файлы\Kursach2\bin\Debug\System.Numerics.Vectors.xml
+C:\Мои файлы\Kursach2\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Мои файлы\Kursach2\bin\Debug\System.Text.Encodings.Web.xml
+C:\Мои файлы\Kursach2\bin\Debug\System.Text.Json.xml
+C:\Мои файлы\Kursach2\bin\Debug\System.Threading.Channels.xml
+C:\Мои файлы\Kursach2\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Мои файлы\Kursach2\bin\Debug\System.ValueTuple.xml
+C:\Мои файлы\Kursach2\obj\Debug\AddAddress.baml
+C:\Мои файлы\Kursach2\obj\Debug\AddCard.baml
+C:\Мои файлы\Kursach2\obj\Debug\AddressInfo.baml
+C:\Мои файлы\Kursach2\obj\Debug\Authorization.baml
+C:\Мои файлы\Kursach2\obj\Debug\CardInfo.baml
+C:\Мои файлы\Kursach2\obj\Debug\Cart.baml
+C:\Мои файлы\Kursach2\obj\Debug\MainWindow.baml
+C:\Мои файлы\Kursach2\obj\Debug\Profile.baml
+C:\Мои файлы\Kursach2\obj\Debug\Registration.baml
+C:\Мои файлы\Kursach2\obj\Debug\Kursach2.g.resources
+C:\Мои файлы\Kursach2\obj\Debug\Kursach2.Properties.Resources.resources
+C:\Мои файлы\Kursach2\obj\Debug\Kursach2.csproj.GenerateResource.cache
+C:\Мои файлы\Kursach2\obj\Debug\Kursach2.csproj.CoreCompileInputs.cache
+C:\Мои файлы\Kursach2\obj\Debug\Kursach2.csproj.CopyComplete
+C:\Мои файлы\Kursach2\obj\Debug\PurchaseHistory.g.cs
+C:\Мои файлы\Kursach2\obj\Debug\PurchaseHistory.baml

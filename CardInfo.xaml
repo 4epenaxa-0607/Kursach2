@@ -1,0 +1,56 @@
+﻿<Window x:Class="Kursach2.CardInfo"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Kursach2"
+        mc:Ignorable="d"
+        Title="CardInfo" Height="450" Width="800" ResizeMode="NoResize">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+            <RowDefinition></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <TextBlock Text="Данные карты" FontSize="36" TextAlignment="Center" Grid.Column="1" Grid.Row="0" Grid.ColumnSpan="2"/>
+
+        <Border CornerRadius="7" BorderBrush="#FF707070" BorderThickness="1"
+                VerticalAlignment="Center" Grid.Column="1" Grid.Row="3" Grid.ColumnSpan="2" Margin="122,0,122,0">
+            <Button Height="30" Grid.Column="1" Grid.Row="3" Click="PayButton" Grid.ColumnSpan="2" FontSize="18" Background="#00DDDDDD" BorderBrush="#00707070">
+                Оплатить</Button>
+        </Border>
+
+        <TextBlock Text="Номер карты:" FontSize="20" TextAlignment="Center" Grid.Column="0" Grid.Row="1" />
+        <Border CornerRadius="7" BorderBrush="#FF707070" BorderThickness="1"
+                VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Margin="71,0,71,0">
+            <TextBox x:Name="numberCardTextBox" Height="30" VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Grid.ColumnSpan="2" Background="Transparent" BorderBrush="#00ABADB3" Foreground="Black" SelectionBrush="#000078D7"/>
+        </Border>
+        <TextBlock Text="дата:" FontSize="20" TextAlignment="Center" Grid.Column="0" Grid.Row="2" />
+        <Border CornerRadius="7" BorderBrush="#FF707070" BorderThickness="1"
+                VerticalAlignment="Top" Grid.Column="1" Grid.Row="1" Margin="51,108,51,0" Grid.RowSpan="2">
+            <TextBox x:Name="DateCardTextBox" Height="30" VerticalAlignment="Top" Grid.Column="1" Grid.Row="2" Background="Transparent" BorderBrush="#00ABADB3" SelectionBrush="#000078D7"/>
+        </Border>
+
+        <TextBlock Text="CVC:" FontSize="20" TextAlignment="Center" Grid.Column="2" Grid.Row="2" />
+        <Border CornerRadius="7" BorderBrush="#FF707070" BorderThickness="1"
+                VerticalAlignment="Top" Grid.Column="3" Grid.Row="1" Margin="51,108,51,0" Grid.RowSpan="2">
+            <TextBox x:Name="CVCCardTextBox" Height="30" VerticalAlignment="Top" Grid.Column="3" Grid.Row="2" Background="Transparent" BorderBrush="#00ABADB3" SelectionBrush="#000078D7"/>
+        </Border>
+
+        <TextBlock Text="Заполните все поля" x:Name="BugReport" FontSize="20" TextAlignment="Center" Grid.Column="1" Grid.ColumnSpan="2" Margin="100,72,100,16" Grid.Row="2" Visibility="Hidden" Foreground="Red"/>
+
+        <Border CornerRadius="7" BorderBrush="#FF707070" BorderThickness="1"
+                VerticalAlignment="Top" Margin="10,10,109,0" Height="44">
+            <Button FontSize="24" Content="Назад" Click="BackButton_Click" Margin="-1,-1,-1,-1" Background="#00DDDDDD" BorderBrush="#00707070"/>
+        </Border>
+
+    </Grid>
+</Window>
